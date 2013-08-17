@@ -1,5 +1,5 @@
 {
-    "name": "maximebf/TraceablePDO",
+    "name": "maximebf/traceable-pdo",
     "description": "Log SQL statements executed using a PDO instance",
     "keywords": ["debug"],
     "homepage": "https://github.com/maximebf/TraceablePDO",

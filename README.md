@@ -14,3 +14,11 @@ about executed statements.
 
 Also provides a `ProxyTraceablePDO` for custom PDO sublasses. Wrap your custom
 PDO object inside it and property access and method calls will be forwarded.
+
+Install using [composer](http://getcomposer.org):
+
+    {
+        "require": {
+            "maximebf/traceable-pdo": "1.*"
+        }
+    }
